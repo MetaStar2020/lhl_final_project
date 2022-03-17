@@ -1,1 +1,1 @@
-# lhl_final_project
+# Speech to Sign Language using OpenPose
